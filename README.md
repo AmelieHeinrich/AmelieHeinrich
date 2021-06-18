@@ -3,7 +3,7 @@
 # 👨🏻‍💻 About Me
 
 💡  14 year old game (engine) developper, I mostly enjoy computer graphics and learning different graphics APIs (learning Vulkan atm)\
-🎓  I'm currently studying in high school, and my dream would be to join the university of Nottingham.\
+🎓  I'm currently studying in high school, and my dream would be to join the university of Epitech.\
 🌱  Currently learning advanced low-level programming with C and the Vulkan graphics API\
 ✍️  In my free time, I enjoy speedrunning games such as Half-Life and Portal, and I also enjoy music as well as just casual gaming.
 
