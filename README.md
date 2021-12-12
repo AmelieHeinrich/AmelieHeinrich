@@ -3,9 +3,9 @@
 # 👨🏻‍💻 About Me
 
 💡  15 year old game (engine) developper, I mostly enjoy computer graphics and learning different graphics APIs (learning Vulkan atm)\
-🎓  I'm currently studying in high school, and my wish would be to join the university of Epitech.\
+🎓  I'm currently studying in high school.\
 🌱  Currently learning advanced low-level programming with C and the Vulkan graphics API, as well as D3D12 with C++\
-✍️  In my free time, I enjoy speedrunning games such as Half-Life and Portal, and I also enjoy music as well as just casual gaming. The game I'm enjoying the most recently is Yakuza 0.
+✍️  In my free time, I enjoy speedrunning games such as Half-Life, Portal and Yoshi's Island, and I also enjoy music as well as just casual gaming. The game I'm enjoying the most recently is Yakuza 0.
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sausty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sausty&layout=compact&langs_count=8&theme=algolia)
@@ -31,7 +31,7 @@
 
 # Socials
 - Twitter: Sausty_
-- Speedrun.com: Sausty
+- Speedrun.com: VkSausty
 - Discord: Sausty#6690
 - Twitch: Sausty45
 
