@@ -10,7 +10,7 @@
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sausty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sausty&layout=compact&langs_count=8&theme=algolia)
 
-## [**Please take a look at my in development game engine, Euphorbe!**](https://https://github.com/Sausty/Euphorbe)
+## [**Please take a look at my in development game engine, Euphorbe!**](https://github.com/Sausty/Euphorbe)
 
 # 🛠 Technologies I use
 
