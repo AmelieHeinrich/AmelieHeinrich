@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 About Me
 
-💡  15 year old game engine developper.\
+💡  16 year old game engine developper.\
 🎓 I'm currently studing at the Epitech school in Paris.\
 🌱 Currently learning advanced game engine programming in C/C++.\
 ✍️  In my free time, I enjoy playing games.
