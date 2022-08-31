@@ -12,7 +12,7 @@
 
 # 🛠 Technologies I use
 
-## I use 4coder and VSC as my main code editor, and I use RemedyBG as my debugger.
+## I use 10x-editor as my main code editor, and I use RemedyBG as my debugger.
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)
