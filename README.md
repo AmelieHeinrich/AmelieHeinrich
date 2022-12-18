@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sausty.</h1>
 
-# 👨🏻‍💻 About Me
+# 👩🏻‍💻 About Me
 
 💡  16 year old game engine developper.\
 🎓 I'm currently studying at the Epitech school in Paris.\
