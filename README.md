@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sausty.</h1>
+<h1 align="center">Hi, I'm Amélie.</h1>
 
 # 👩🏻‍💻 About Me
 
@@ -12,7 +12,7 @@
 
 # 🛠 Technologies I use
 
-## I use 4coder as my main code editor, and I use RemedyBG as my debugger.
+## I use VSCode as my main code editor, and I use RemedyBG as my debugger.
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)
@@ -24,6 +24,6 @@
 
 # Socials
 - Twitter: VkSausty
-- Discord: Sausty#6690
+- Discord: Amélie#6690
 
 
