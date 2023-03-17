@@ -23,7 +23,7 @@
 ![C](https://img.shields.io/badge/-C99-05122A?style=flat&logo=c&logoColor=563D7C)
 
 # Socials
-- Twitter: VkSausty
+- Twitter: VkAmelie
 - Discord: Amélie#6690
 
 
