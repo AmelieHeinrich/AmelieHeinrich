@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 About Me
 
-💡  16 year old graphics developper.\
+💡  17 year old graphics developper.\
 🎓 I'm currently studying at the Epitech school in Paris.\
 🌱 Currently learning advanced game engine programming in C/C++.\
 ✍️  In my free time, I enjoy playing games.
