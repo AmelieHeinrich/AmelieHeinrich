@@ -2,11 +2,12 @@
 
 # 👩🏻‍💻 About Me
 
-💡  17 year old graphics developper.\
+💡  17 year old french programmer.\
 🎓 I'm currently studying at the Epitech school in Paris.\
 🌱 Currently working as a graphics engineer at Quantic Dream.\
-✍️ In my free time, I enjoy playing games.
-👩🏻‍💻 I like core game engine programming, graphics programming, shader art, working with post processing, and making apps and games for consoles.
+✍️ In my free time, I enjoy playing games.\
+👩🏻‍💻 I like core game engine programming, graphics programming, shader art, working with post processing, and making apps and games for consoles.\
+💡 My favorite languages are C and C++, but I have experiences in other low level languages.
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sausty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sausty&layout=compact&langs_count=8&theme=algolia)
