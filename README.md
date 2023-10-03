@@ -4,15 +4,14 @@
 
 💡  17 year old graphics developper.\
 🎓 I'm currently studying at the Epitech school in Paris.\
-🌱 Currently learning advanced game engine programming in C/C++.\
-✍️  In my free time, I enjoy playing games.
+🌱 Currently working as a graphics engineer at Quantic Dream.\
+✍️ In my free time, I enjoy playing games.
+👩🏻‍💻 I like core game engine programming, graphics programming, shader art, working with post processing, and making apps and games for consoles.
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sausty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)\
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sausty&layout=compact&langs_count=8&theme=algolia)
 
 # 🛠 Technologies I use
-
-## I use VSCode as my main code editor, and I use RemedyBG as my debugger.
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)
