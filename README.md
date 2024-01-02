@@ -4,7 +4,6 @@
 
 💡  17 year old french programmer.\
 🎓 I'm currently studying at the Epitech school in Paris.\
-🌱 Currently working as a graphics engineer at Quantic Dream.\
 ✍️ In my free time, I enjoy playing games.\
 👩🏻‍💻 I like core game engine programming, graphics programming, shader art, working with post processing, and making apps and games for consoles.\
 💡 My favorite languages are C and C++, but I have experiences in other low level languages.
