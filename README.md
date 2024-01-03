@@ -19,7 +19,7 @@
 ![Metal](https://img.shields.io/badge/-Metal-05122A?style=flat&logo=apple)
 ![C++](https://img.shields.io/badge/-C++17-05122A?style=flat&logo=c&logoColor=563D7C)
 ![C](https://img.shields.io/badge/-C99-05122A?style=flat&logo=c&logoColor=563D7C)
-![Odin](https://img.shields.io/badge/-C99-05122A?style=flat&logo=c&logoColor=563D7C)
+![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=c&logoColor=563D7C)
 
 # Socials
 - Twitter: ritualpassion
