@@ -22,7 +22,7 @@
 ![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=c&logoColor=563D7C)
 
 # Socials
-- Twitter: ritualpassion
+- Twitter: AmelieHDev
 - Discord: ritualpassion
 
 
