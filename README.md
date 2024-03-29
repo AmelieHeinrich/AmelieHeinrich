@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 About Me
 
-💡 French programmer.\
+💡 French graphics programmer.\
 🎓 I'm currently studying at the Epitech engineering university in Paris.\
 ✍️ In my free time, I enjoy playing games.\
 👩🏻‍💻 I like core game engine programming, graphics programming, shader art, and making apps and games for consoles.\
@@ -25,6 +25,7 @@
 
 # 🛠 Games I've worked on
 
+I was able to work on Quantic Dream's rendering engine through an internship I was able to do during July-December 2023.
 [Star Wars Eclipse (Quantic Dream)](https://www.starwarseclipse.com)
 ![Screenshot](images/star-wars-eclipse-22-drummer-face-38763223_8df3eced.jpeg)
 
