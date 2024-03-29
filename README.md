@@ -17,7 +17,6 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)
 ![DirectX](https://img.shields.io/badge/-DirectX-05122A?style=flat&logo=microsoft)
-![Metal](https://img.shields.io/badge/-Metal-05122A?style=flat&logo=apple)
 ![C++](https://img.shields.io/badge/-C++17-05122A?style=flat&logo=c&logoColor=563D7C)
 ![C](https://img.shields.io/badge/-C99-05122A?style=flat&logo=c&logoColor=563D7C)
 ![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=c&logoColor=563D7C)
