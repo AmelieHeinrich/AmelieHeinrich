@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 About Me
 
-💡  17 year old french programmer.\
+💡 French programmer.\
 🎓 I'm currently studying at the Epitech engineering university in Paris.\
 ✍️ In my free time, I enjoy playing games.\
 👩🏻‍💻 I like core game engine programming, graphics programming, shader art, and making apps and games for consoles.\
