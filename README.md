@@ -9,14 +9,24 @@
 💡 My favorite languages are C and C++, but I have experiences in other low level languages, like Odin and a bit of Rust.\
 🛠 I have experience with technologies like DirectX 11 and 12, Vulkan, OpenGL, as well as console development such as the PS5 or Switch homebrew.
 
-# 🛠 Technologies I use
+# 🛠 Some of my personal projects
 
-![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)
-![Vulkan](https://img.shields.io/badge/-Vulkan-05122A?style=flat&logo=vulkan)
-![DirectX](https://img.shields.io/badge/-DirectX-05122A?style=flat&logo=microsoft)
-![C++](https://img.shields.io/badge/-C++17-05122A?style=flat&logo=c&logoColor=563D7C)
-![C](https://img.shields.io/badge/-C99-05122A?style=flat&logo=c&logoColor=563D7C)
-![Odin](https://img.shields.io/badge/-Odin-05122A?style=flat&logo=c&logoColor=563D7C)
+[Aurora (C, Vulkan)](https://github.com/AmelieHeinrich/aurora)
+![Screenshot](images/aurora.webp)
+
+[Voyage (C++, D3D11)](https://github.com/AmelieHeinrich/voyage)
+![Screenshot](images/voyage.webp)
+
+[Game Project (C++, D3D12)](https://github.com/AmelieHeinrich/GameProject)
+![Screenshot](images/game_project.webp)
+
+[Untitled Horror Game (C++, D3D11)](https://github.com/AmelieHeinrich/UntitledHorrorGame)
+![Screenshot](images/uhg.png)
+
+# 🛠 Games I've worked on
+
+[Star Wars Eclipse (Quantic Dream)](https://www.starwarseclipse.com)
+![Screenshot](images/star-wars-eclipse-22-drummer-face-38763223_8df3eced.jpeg)
 
 # Socials
 - Twitter: AmelieHDev
