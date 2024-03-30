@@ -9,6 +9,12 @@
 💡 My favorite languages are C and C++, but I have experiences in other low level languages, like Odin and a bit of Rust.\
 🛠 I have experience with technologies like DirectX 11 and 12, Vulkan, OpenGL, as well as console development such as the PS5 or Switch homebrew.
 
+# 🛠 Games I've worked on
+
+I was able to work on Quantic Dream's rendering engine through an internship I was able to do during July-December 2023.
+[Star Wars Eclipse (Quantic Dream)](https://www.starwarseclipse.com)
+![Screenshot](images/star-wars-eclipse-22-drummer-face-38763223_8df3eced.jpeg)
+
 # 🛠 Some of my personal projects
 
 [Aurora (C, Vulkan)](https://github.com/AmelieHeinrich/aurora)
@@ -22,12 +28,6 @@
 
 [Untitled Horror Game (C++, D3D11)](https://github.com/AmelieHeinrich/UntitledHorrorGame)
 ![Screenshot](images/uhg.png)
-
-# 🛠 Games I've worked on
-
-I was able to work on Quantic Dream's rendering engine through an internship I was able to do during July-December 2023.
-[Star Wars Eclipse (Quantic Dream)](https://www.starwarseclipse.com)
-![Screenshot](images/star-wars-eclipse-22-drummer-face-38763223_8df3eced.jpeg)
 
 # Socials
 - Twitter: AmelieHDev
