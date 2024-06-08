@@ -36,5 +36,5 @@ Oni is an experimental D3D12 renderer where I'm trying to implement as much stat
 
 # Socials
 - Twitter: AmelieHDev
-- Discord: ritualpassion
+- Discord: thewitness94
 - Email: amelie.heinrich.dev@gmail.com
