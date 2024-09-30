@@ -2,12 +2,11 @@
 
 # 👩🏻‍💻 About Me
 
-💡 French graphics programmer.\
+💡 I'm a french graphics programmer.\
 🎓 I'm currently studying game development at the G. Tech university in Paris.\
-✍️ In my free time, I enjoy playing games.\
-👩🏻‍💻 I like core game engine programming, graphics programming, shader art, and making apps and games for consoles.\
-💡 My favorite languages are C and C++, but I have experiences in other low level languages, like Odin and a bit of Zig.\
-🛠 I have experience with technologies like DirectX 11 and 12, Vulkan, OpenGL, as well as console development such as the PS5.
+👩🏻‍💻 I like core game engine programming, graphics programming, shader art, and making games for consoles and desktop.\
+💡 My favorite languages are C and C++, but I have experiences in other low level languages, like Odin, Zig, and Jai.\
+🛠 I have experience with technologies like DirectX 12, Vulkan, OpenGL, as well as console development such as the PS5.
 
 # 🛠 Games I've worked on
 
@@ -20,21 +19,6 @@ I was able to work on Quantic Dream's rendering engine through an internship I w
 Oni is an experimental D3D12 renderer where I'm trying to implement as much state of the art rendering techniques as possible.
 [Oni (C++, D3D12)](https://github.com/AmelieHeinrich/Oni)
 
-# 🛠 Some of my other projects
-
-[Aurora (C, Vulkan)](https://github.com/AmelieHeinrich/aurora)
-![Screenshot](images/aurora.webp)
-
-[Voyage (C++, D3D11)](https://github.com/AmelieHeinrich/voyage)
-![Screenshot](images/voyage.webp)
-
-[Game Project (C++, D3D12)](https://github.com/AmelieHeinrich/GameProject)
-![Screenshot](images/game_project.webp)
-
-[Untitled Horror Game (C++, D3D11)](https://github.com/AmelieHeinrich/UntitledHorrorGame)
-![Screenshot](images/uhg.png)
-
 # Socials
 - Twitter: rainbowpikmin
-- Discord: ritualpassion
 - Email: amelie.heinrich.dev@gmail.com
