@@ -14,11 +14,6 @@ I was able to work on Quantic Dream's rendering engine through an internship I w
 [Star Wars Eclipse (Quantic Dream)](https://www.starwarseclipse.com)
 ![Screenshot](images/star-wars-eclipse-22-drummer-face-38763223_8df3eced.jpeg)
 
-# 🛠 My current personal project, Oni
-
-Oni is an experimental D3D12 renderer where I'm trying to implement as much state of the art rendering techniques as possible.
-[Oni (C++, D3D12)](https://github.com/AmelieHeinrich/Oni)
-
 # Socials
-- Twitter: rainbowpikmin
+- Bsky: xanderstudios.eu
 - Email: amelie.heinrich.dev@gmail.com
