@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amélie (any pronouns).</h1>
+<h1 align="center">Hi, I'm Amélie (he/him).</h1>
 
 # About me
 
@@ -8,7 +8,7 @@ I am currently getting a BSc in game development at Gaming Campus.
 My passion for video games, art and my natural curiosity makes me constantly motivated to learn more ways to render beautiful interactive experiences in real-time.
 Some of my biggest inspirations include The Witness, Death Stranding, Silent Hill 3, Yakuza : Like a Dragon, Astro Bot and Half-Life 2.
 
-I am fluent in both English and French (native language), currently perfecting my Spanish, Japanese and willing to learn a new language to open up my professional network.
+I am fluent in both English and French (native language), currently learning Norwegian, Japanese and willing to learn a new language to open up my professional network.
 
 # Job inquiries
 
@@ -16,7 +16,7 @@ For any job inquiries (internships or full-time offers), feel free to contact me
 
 # What are you working on?
 
-I am currently studying applied mathematics in my free time as well as working on a renderer that is private for now.
+A bunch of different things! My projects go from game dev, engine dev, graphics dev or even audio/physics dev! I keep my Bluesky regularly updated on what I work on, so feel free to check it out!
 
 # Professional experience
 
