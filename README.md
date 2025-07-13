@@ -2,13 +2,13 @@
 
 # About me
 
-I am an 18 year old French graphics programmer. I mostly enjoy API work but I'm currently learning modern rendering techniques, light transport and advanced GPU driven rendering.
+I am an 18 year old French graphics programmer, currently interning at Ubisoft Montpellier. I mostly enjoy API and engine work but I'm currently learning modern rendering techniques, light transport and advanced GPU driven rendering.
 I am currently getting a BSc in game development at Gaming Campus.
 
 My passion for video games, art and my natural curiosity makes me constantly motivated to learn more ways to render beautiful interactive experiences in real-time.
-Some of my biggest inspirations include The Witness, Death Stranding, Silent Hill 3, Yakuza : Like a Dragon, Astro Bot and Half-Life 2.
+Some of my biggest inspirations include Death Stranding, Silent Hill 3, Half-Life 2 and Cry of Fear.
 
-I am fluent in both English and French (native language), but also learning many different languages: Norwegian, Swedish, Icelandic, Japanese, German, Dutch and Finnish.
+I am fluent in both English and French (native language), currently learning Norwegian (B1) and Japanese (N5).
 
 # Job inquiries
 
@@ -16,7 +16,7 @@ For any job inquiries (internships or full-time offers), feel free to contact me
 
 # What are you working on?
 
-A bunch of different things! My projects go from game dev, engine dev, graphics dev or even audio/physics dev! I keep my Bluesky regularly updated on what I work on, so feel free to check it out!
+My current main project is [Seraph](https://github.com/AmelieHeinrich/Seraph), a D3D12/Vulkan/Metal renderer where I experiment with rendering techniques, raytracing and graphics APIs.
 
 # Professional experience
 
