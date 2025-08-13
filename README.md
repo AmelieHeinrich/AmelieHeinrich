@@ -12,14 +12,19 @@ I am fluent in both English and French (native language), currently learning Nor
 
 # Job inquiries
 
-For any job inquiries (internships or full-time offers), feel free to contact me through e-mail at amelie.heinrich.dev@gmail.com. I am always looking for more experience in the games industry, even more in AAA. I am open to relocate everywhere in the world, with priority going to nordic countries, the Netherlands and Japan.
+For any job inquiries (internships or full-time offers), feel free to contact me through e-mail at amelie.heinrich.dev@gmail.com. I am always looking for more experience in the games industry, even more in AAA. I am open to relocate everywhere in the world.
 
 # What are you working on?
 
-My current main project is [Seraph](https://github.com/AmelieHeinrich/Seraph), a D3D12/Vulkan/Metal renderer where I experiment with rendering techniques, raytracing and graphics APIs.
+My current main project is [Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope) [Seraph](https://github.com/AmelieHeinrich/Seraph), the first being a full blown game engine and the other one being a showcase renderer using that engine.
 
 # Professional experience
 
+## Ubisoft (2025)
+During the summer of 2025 (May-September), I had the opportunity to work as a Graphics Programmer intern on the Snowdrop engine in Ubisoft Montpellier, working on an unnanounced game project.
+[Snowdrop](https://www.massive.se/project/snowdrop-engine/)
+
+## Quantic Dream (2023)
 I was able to work on Quantic Dream's rendering engine through an internship I was able to do during July-December 2023.
 [Star Wars Eclipse (Quantic Dream)](https://www.starwarseclipse.com)
 ![Screenshot](images/star-wars-eclipse-22-drummer-face-38763223_8df3eced.jpeg)
