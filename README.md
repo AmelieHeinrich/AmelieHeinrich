@@ -2,7 +2,7 @@
 
 # About me
 
-I am a French graphics programmer, currently interning at Ubisoft Montpellier. I mostly enjoy API and engine work but I'm currently learning modern rendering techniques, light transport and advanced GPU driven rendering.
+I am a French graphics programmer. I mostly enjoy API and engine work but I'm currently learning modern rendering techniques, light transport and advanced GPU driven rendering.
 I am currently getting a BSc in game development at Gaming Campus.
 
 My passion for video games, art and my natural curiosity makes me constantly motivated to learn more ways to render beautiful interactive experiences in real-time.
