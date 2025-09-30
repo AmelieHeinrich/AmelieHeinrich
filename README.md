@@ -2,21 +2,19 @@
 
 # About me
 
-I am a French graphics programmer. I mostly enjoy API and engine work but I'm currently learning modern rendering techniques, light transport and advanced GPU driven rendering.
-I am currently getting a BSc in game development at Gaming Campus.
+I am a 19 year old French graphics programmer. I am currently getting a BSc in game development at Gaming Campus. My skills go from low level rendering architecture/API plumbing with all major desktop and console APIs (DirectX 12/11, Metal, OpenGL, Vulkan, PS5/Switch2) to modern rendering techniques, raytracing, denoising, GPU driven rendering and optimizations. I was an intern at both Ubisoft and Quantic Dream where they trusted me with performance critical topics on consoles.
 
-My passion for video games, art and my natural curiosity makes me constantly motivated to learn more ways to render beautiful interactive experiences in real-time.
-Some of my biggest inspirations include Death Stranding, Silent Hill 3, Half-Life 2 and Cry of Fear.
+My passion for video games, art and my natural curiosity makes me constantly motivated to learn more ways to render beautiful interactive experiences in real-time. Some of my biggest inspirations include Death Stranding 2, Silent Hill 3, Ghost of Tsushima and Half-Life 2.
 
-I am fluent in both English and French (native language), currently learning Norwegian (B1).
+I am a native French speaker, bilingual in English and currently learning Norwegian and Japanese. I am however willing to learn a new language to open up my professional network.
 
 # Job inquiries
 
-For any job inquiries (internships or full-time offers), feel free to contact me through e-mail at amelie.heinrich.dev@gmail.com. I am always looking for more experience in the games industry, even more in AAA. I am open to relocate everywhere in the world.
+For any job inquiries (internships, part-time, full-time offers), feel free to contact me through e-mail at amelie.heinrich.dev@gmail.com. I am always looking for more experience in the games industry, even more in AAA. I am open to work anywhere in the world, priorities going to EU countries. I am open to relocate in other countries if VISA sponsoring is available.
 
 # What are you working on?
 
-My current main project is [Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope) and [Seraph](https://github.com/AmelieHeinrich/Seraph), the first being a full blown game engine and the other one being a showcase renderer using that engine.
+My current main project is [Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope) and [Seraph](https://github.com/AmelieHeinrich/Seraph), the first being a full blown game engine and the other one being a research/showcase renderer using that engine.
 
 # Professional experience
 
