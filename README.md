@@ -14,7 +14,7 @@ For any job inquiries (internships, part-time, full-time offers), feel free to c
 
 # What are you working on?
 
-My current main project is [Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope) and [Seraph](https://github.com/AmelieHeinrich/Seraph), the first being a full blown game engine and the other one being a research/showcase renderer using that engine.
+My current main project is [Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope), a full blown game engine made from scratch.
 
 # Professional experience
 
