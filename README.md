@@ -12,10 +12,6 @@ I am a native French speaker, bilingual in English and currently learning Norweg
 
 For any job inquiries (internships, part-time, full-time offers), feel free to contact me through e-mail at amelie.heinrich.dev@gmail.com. I am always looking for more experience in the games industry, even more in AAA. I am open to work anywhere in the world, priorities going to EU countries. I am open to relocate in other countries if VISA sponsoring is available.
 
-# What are you working on?
-
-My current main project is [Kaleidoscope](https://github.com/Floating-Trees-Inc/Kaleidoscope), a full blown game engine made from scratch.
-
 # Professional experience
 
 ## Ubisoft (2025)
