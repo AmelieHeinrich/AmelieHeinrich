@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Amélie (he/him).</h1>
+<h1 align="center">I'm Amélie (he/him).</h1>
 
 # About me
 
-I am a 19 year old French graphics programmer. I am currently getting a BSc in game development at Gaming Campus. My skills go from low level rendering architecture/API plumbing with all major desktop and console APIs (DirectX 12/11, Metal, OpenGL, Vulkan, PS5/Switch2) to modern rendering techniques, raytracing, denoising, GPU driven rendering and optimizations. I was an intern at both Ubisoft and Quantic Dream where they trusted me with performance critical topics on consoles.
+I am a 19 year old French graphics programmer. I am currently finishing my BSc in game development at Gaming Campus. My skills go from low level rendering architecture/API plumbing with all major desktop and console APIs (DirectX 12/11, Metal, OpenGL, Vulkan, PS5/Switch2) to modern rendering techniques, raytracing, GPU driven rendering... I was an intern at both Ubisoft and Quantic Dream where they trusted me with performance critical topics on consoles.
 
 My passion for video games, art and my natural curiosity makes me constantly motivated to learn more ways to render beautiful interactive experiences in real-time. Some of my biggest inspirations include Death Stranding 2, Silent Hill 3, Ghost of Tsushima and Half-Life 2.
 
